@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheOriginalYuki
 - 👀 I’m interested in making friends
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on twitch/youtube
 - 📫 How to reach me theogyukibusiness@gmail.com
 
 <!---
